@@ -1,4 +1,4 @@
-# Final Homework 4 – Labour Market Dynamics (C++ + Python Project)
+# Final Homework 4 – Labour Market Dynamics (C++ & Python Project)
 ## Project Description
 This project analyzes unemployment data over 12 months and visualizes trends using both **C++ (Matplot++)** and **Python (matplotlib)**.
 The goal is to fulfill the requirements for Topic 3: **Labour Market Dynamics**, including:
@@ -26,8 +26,6 @@ This will:
 - Ask for 12 monthly unemployment rates
 - Plot the chart in C++ using Matplot++
 - Export data to `unemployment.csv`
-
----
 
 ### Step 2: Run Python Visualization
 
